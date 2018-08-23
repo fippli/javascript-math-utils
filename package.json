@@ -1,6 +1,6 @@
 {
   "name": "@fippli/math-utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Math utils for JavaScript",
   "main": "index.js",
   "scripts": {
