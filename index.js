@@ -24,7 +24,7 @@ const createRange = ( min, max, step = 1 ) => {
         while ( min < max ? i + step <= max : i - step >= max  ) {
             min < max ? i += step : i -= step;
 
-            interval.push( i.toFixed( getDecimalPlaces( step ) ) );
+            interval.push( parseInt(i.toFixed( getDecimalPlaces( step ))));
         }
         return interval;
     } else {
