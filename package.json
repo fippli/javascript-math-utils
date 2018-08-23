@@ -1,0 +1,22 @@
+{
+  "name": "@fippli/math-utils",
+  "version": "0.0.1",
+  "description": "Math utils for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fippli/javascript-math-utils.git"
+  },
+  "keywords": [
+    "math"
+  ],
+  "author": "Filip Johansson <filip.johansson@protonmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fippli/javascript-math-utils/issues"
+  },
+  "homepage": "https://github.com/fippli/javascript-math-utils#readme"
+}
